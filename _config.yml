@@ -280,14 +280,11 @@ defaults:
       share: true
       related: true
 
-#>>>>>>>_page 추가 >>>>>>
+  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-#>>>>>>>>>>>>>>>>>>>>>>>
 
-gem "github-pages", group: :jekyll_plugins
