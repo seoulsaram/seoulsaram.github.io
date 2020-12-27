@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: "/about/" #내 포폴 주소 넣기
+    url: "/posts/" #내 포폴 주소 넣기
+  - title: "Posts"
+    url: "/_posts/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
